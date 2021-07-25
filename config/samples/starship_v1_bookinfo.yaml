@@ -1,0 +1,7 @@
+apiVersion: starship.bookinfo.starship/v1
+kind: Bookinfo
+metadata:
+  name: bookinfo-sample
+spec:
+  # Add fields here
+  foo: bar
