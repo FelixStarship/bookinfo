@@ -1,0 +1,2 @@
+# bookinfo
+kubebuilder crd bookinfo
